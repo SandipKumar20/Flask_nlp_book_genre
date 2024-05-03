@@ -1,0 +1,1 @@
+# A flask app which predicts the genre of a book given its summary. The mlp classifier which is used to predict the genre is trained on the CMU book summary dataset. 
